@@ -9,6 +9,8 @@ import com.example.finishallbyme.finishall.finishData
 
 class MainActivity : AppCompatActivity() {
     var list = ArrayList<finishData>()
+    //aaa
+    //1
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
