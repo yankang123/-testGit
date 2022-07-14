@@ -18,6 +18,10 @@ public class MainActivity extends AppCompatActivity {
         //+2
         //修改4
         //mydev修改啊
-        //Creating a new branch is quick & simple.
+<<<<<<< HEAD
+        //Creating a new branch is quick AND simple.
+=======
+        //Creating a new branch is quick AND simple.
+>>>>>>> mydev
     }
 }
