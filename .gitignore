@@ -1,0 +1,29 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.gitignore
+build.gradle
+.gradle
+# 忽略.idea文件夹
+.idea
+
+# 忽略所有"build"文件夹
+build
+# 忽略所有.iml文件
+*.iml
+# 忽略local.properties
+local.properties
+# 忽略local.properties
+Express.iws
